@@ -1,0 +1,48 @@
+_repo: The-Letters-of-Anne-Gilchrist-and-Walt-Whitman_35395
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35395-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Gilchrist, Anne (Anne Burrows)
+    alias: Gilchrist, Anne Burrows
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '37644'
+    url: http://www.gutenberg.org/2009/agents/37644
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Gilchrist_%28writer%29
+  - agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+  editor:
+    agent_name: Harned, Thomas Biggs
+    birthdate: 1851
+    deathdate: 1921
+    gutenberg_agent_id: '37645'
+    url: http://www.gutenberg.org/2009/agents/37645
+description: Anne Gilchrist was a British woman of letters. Upon reading Walt Whitman's
+  poems for the first time, she immediately wrote to the author to let him know her
+  delight in the poems and to thank him for publishing them. Eventually she began
+  corresponding with Whitman this collection of letters is a captivating look at an
+  unusual friendship.
+gutenberg_issued: '2011-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35395'
+  lccn: '18020650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gilchrist, Anne (Anne Burrows), 1828-1885 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Whitman, Walt, 1819-1892 -- Correspondence'
+title: The Letters of Anne Gilchrist and Walt Whitman
+url: http://www.gutenberg.org/ebooks/35395
